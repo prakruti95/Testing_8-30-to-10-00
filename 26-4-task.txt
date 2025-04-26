@@ -1,0 +1,18 @@
+1)If Student having more than 35 marks then he is pass else fail
+
+2)If Student having more than 
+
+Marks>=70 -> A Grade
+Marks>=60 -> B Grade
+Marks>=50 -> C Grade
+Marks>=40 -> D Grade
+Marks<40 -> Fail
+
+statement:
+start,end -> round shape
+process ->rounded rectangular
+decision ->rectangle
+flow ->arrow key
+condition ->diamond
+
+

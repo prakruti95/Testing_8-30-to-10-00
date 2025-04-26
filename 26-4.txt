@@ -1,0 +1,97 @@
+DemoQA Practice Form
+Label
+TextInputField
+radiobutton
+NumberInputField
+DatePicker
+TimePicker
+AutoCompleteTextview
+Checkbox
+FilePicker/ImagePicker
+TextArea
+DropDown/Spinner
+
+Error:
+-> Only 4 fields are mandatory when i will submit 
+form without entering any data
+
+->Empty value will accepted
+
+->Error Does not show any type of warning msgs
+
+->Firstname and lastname should have a character limit
+
+->in mobile number only number should be expected but here we can also add 
+characters
+
+->If there is a datepicker and there is some option like appointment booking
+make sure date shouldn't be selected for previous month
+
+->Wrong subject is accepted
+
+->State and City should be depended on each other here is a error like
+if i will select rajsthan and it's city after that i will change my state 
+but city does not changed
+
+ =======================================================================
+Process:
+
+Activity : Key Left -> Key Right
+Process : 3 Activity
+
+In single process there should be many activities
+
+
+Static Testing : in static testing no need to execute the code
+->Product Documentation need to test here
+->Early Testing
+
+Dynamic Testing : in dynamic testing you have to execute the code
+
+Optional:Practical Implementation
+Planning
+Preparation
+Evaluation
+Software products and related work products
+
+
+SDLC -> Software Development Lifecycle
+
+
+
+
+
+Stages:
+1)Requirement Gathering:
+Types of Requirement:
+
+1)Functional Requirement:
+
+2)Non Functional Requirement:
+
+->Diagrams,Tables
+UML -> Unified Modeling Language
+
+2)Analysis
+3)Design
+4)Implementation->coding->developer
+5)Testing->Tester
+6)Maintenance->Production
+Types of Maintenance:
+1)Corrective : You Need to Correct Some Errors.
+
+2)Adaptive : Product is already available on one platform you will 
+develop for another platform.
+
+3)Perfective : if you want to make the application more perfective
+at that time you can follow perfective Maintenance
+
+
+
+
+
+STLC -> Software Testing Lifecycle
+
+
+
+

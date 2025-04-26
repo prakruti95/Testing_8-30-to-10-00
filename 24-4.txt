@@ -17,7 +17,7 @@ document format -> data use
 
 2)Completeness:Requirement Fullfill
 
-3)Quality:
+3)Quality:Expected Result = Actual Result -> Quality will be good
 
 Tester:
 1)Websites
