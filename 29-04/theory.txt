@@ -1,0 +1,20 @@
+
+Types of Layers:
+
+1.Presentation Layer
+2.Application Layer
+3.Data Layer
+
+1-tier
+2-tier
+3-tier
+
+System Environment Flow:
+Dev -> QA -> UAT ->Production
+
+Risk
+When to Start Testing?
+When to Stop Testing?
+Why Testing is necessary?
+
+
