@@ -1,0 +1,14 @@
+What is Testing?
+When to Start Testing?
+When to Stop Testing?
+Why Testing is necessary?
+Software Architecture
+Layers
+Tiers
+SDLC
+Diagrams
+Practice Form Test
+System Environment Flow
+
+
+

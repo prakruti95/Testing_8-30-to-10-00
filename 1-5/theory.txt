@@ -1,0 +1,50 @@
+7 key Princi:
+
+1.Testing Shows Presence of Defects
+identify - There are some defects
+not identify - There are no defects- currently it's error free
+
+Why we are doing testing?
+->reduce the probability of undiscovered defects
+
+2.Exhaustive Testing is impossible
+-> it's not possible to check every input condition 
+-> every combination of input are not check to possible
+
+3. Early Testing
+-> documentation testing
+-> Parallel
+
+4. Defect Clustering
+-> defects are not evenly spread in a system
+-> from one defect another defect should not affect
+
+5. The Pesticide Paradox
+-> Regularly Review and Revised Something to find some new defects
+
+6. Testing is context dependent
+-> Every Webiste needs to check diffrently
+
+7. Absence of Error Fallacy
+-> There is no Error
+-> Requirement also not fullfilled
+
+Project Based
+-> it works on client budget
+-> You Need Customers
+
+Product Based 
+-> Own Budget
+-> Product Work
+
+
+
+
+
+
+
+
+
+
+
+
