@@ -1,0 +1,10 @@
+1)Waterfall Model
+2)Iterative Model
+3)Spiral Model
+4)Agile Model
+5)V-Model [Verification and validation]
+
+Error -> A Mistake that happens in coding by developer
+Defect -> A MIstake that will be find by tester
+Bug -> If defect is accepted by dev. team then it's called
+bug.
