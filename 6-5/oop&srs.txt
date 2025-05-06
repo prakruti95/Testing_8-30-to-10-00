@@ -1,0 +1,28 @@
+SRS -> Software Requirement Specifications
+
+
+1)Customer Requirement
+2)Functional Requirement
+3)Non Functional Requirement
+
+OOP:[Object Orineted Programming]
+
+Featurs of OOP
+1)Object : Any Entity which has own state and behaviour that is called an object
+ex:pen,paper,chair etc..
+
+2)Class : Collection of objects that is called class
+ex:human body
+
+3)Abstraction : Hiding internal details and showing functionalities
+ex:login page
+
+4)encapsulation : Wrapping up of data or binding of data
+ex:capsule
+
+5)inheritance : When One Object Acquire all the properties 
+and behaviour of parent class
+ex:father-son
+
+6)polymorphism : Many ways to perform anything
+ex:overloading,overriding
