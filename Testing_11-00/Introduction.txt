@@ -1,0 +1,59 @@
+Username:tops
+System Pass: tops?123
+
+Software Testing:
+
+1)Manual Testing - No Coding
+2)Automation Testing
+
+Via Software - Automation Testing
+Minor Level Coding
+
+----------------------------
+1)Manual :
+ -> Websites
+ -> Mobile App
+ -> Desktop Software
+
+==================================================================================
+Tops Career Center: 
+
+=> Personal Details:
+  -> Linkedin ID
+  -> Insta ID
+  -> Aadhar -Front
+  -> Aadhar - Back
+
+=> Mon,Wed,Fri [11:00 to 12:00]
+   Tue,Thu,Sat [Practice Days]	
+
+
+==========================================
+Github Account:
+username :anitpatel1133
+password : Tops@123456789
+
+1)Create Repo
+2)Create File
+3)Upload File
+4)Create Folder
+5)Upload File Inside Folder
+===========================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
