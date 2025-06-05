@@ -1,0 +1,18 @@
+1)A Customer is unable to download their insurance policy document how will you trobuleshoot?
+
+2)A customer is unable to add products to the cart. What could be the cause, and how 
+would you verify it?
+
+3)The payment gateway is not working, and the customer cannot make a purchase. 
+How would you investigate and resolve the issue?
+
+4)The product page is not loading correctly for certain customers. 
+What steps would you take to diagnose this?
+
+
+5)A customer reports that they are seeing outdated product prices. 
+How would you go about diagnosing and fixing this?
+
+
+6)A customer reports that the website is very slow while browsing certain categories. 
+What kind of performance testing or diagnostics would you perform?
